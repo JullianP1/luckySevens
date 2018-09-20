@@ -7,7 +7,7 @@ namespace luckySevens
         static void Main(string[] args)
         {
             int totalNumberOfSevens = 0;
-            Random rng = new Random;
+            Random rng = new Random();
 
             int die1;
             int die2;
